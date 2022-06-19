@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Plotting NO2 from OMI and TROPOMI
-Created on Fri May 28 12:39:33 2021
+Plotting NO2 from TROPOMI
 @author: opior
 """
 
